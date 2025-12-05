@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "React - The Complete Guide",
+    "category": "Web Development",
+    "duration": 30,
+    "level": "Intermediate",
+    "description": "Master React, hooks, context API, routing, optimization techniques and real-world projects.",
+    "imageSeed": "react_complete_guide"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript: Zero to Expert",
+    "category": "Programming",
+    "duration": 25,
+    "level": "Beginner",
+    "description": "Understand fundamentals of JavaScript, DOM, ES6+, promises, and asynchronous programming.",
+    "imageSeed": "js_zero_expert"
+  },
+  {
+    "id": 3,
+    "name": "Node & Express Bootcamp",
+    "category": "Backend Development",
+    "duration": 28,
+    "level": "Intermediate",
+    "description": "Learn to build fast and scalable backend APIs using Node.js, Express, JWT authentication and MongoDB.",
+    "imageSeed": "node_express"
+  },
+  {
+    "id": 4,
+    "name": "UI/UX Design Essentials",
+    "category": "Design",
+    "duration": 14,
+    "level": "Beginner",
+    "description": "Learn user research, wireframing, prototyping, typography, color theory and usability testing.",
+    "imageSeed": "uiux_essentials"
+  },
+  {
+    "id": 5,
+    "name": "Data Structures & Algorithms",
+    "category": "Programming",
+    "duration": 35,
+    "level": "Advanced",
+    "description": "Master time complexity, trees, graphs, recursion, sorting algorithms and competitive coding patterns.",
+    "imageSeed": "dsa"
+  },
+  {
+    "id": 6,
+    "name": "Python for Data Science",
+    "category": "Data Science",
+    "duration": 20,
+    "level": "Beginner",
+    "description": "Learn Python, data cleaning, analysis, visualization, NumPy, Pandas and basic ML.",
+    "imageSeed": "python_ds"
+  },
+  {
+    "id": 7,
+    "name": "Next.js & SSR Masterclass",
+    "category": "Web Development",
+    "duration": 18,
+    "level": "Intermediate",
+    "description": "Develop production-ready SSR and SSG applications using Next.js, routing, API routes and deployment.",
+    "imageSeed": "nextjs_masterclass"
+  },
+  {
+    "id": 8,
+    "name": "DevOps Essentials",
+    "category": "DevOps",
+    "duration": 16,
+    "level": "Intermediate",
+    "description": "Understand CI/CD pipelines, Docker, Kubernetes, monitoring, versioning and deployment automation.",
+    "imageSeed": "devops_essentials"
+  },
+  {
+    "id": 9,
+    "name": "Android Development with Kotlin",
+    "category": "Mobile Development",
+    "duration": 22,
+    "level": "Intermediate",
+    "description": "Build native Android apps with Kotlin, Jetpack components, Room DB, and material UI.",
+    "imageSeed": "android_kotlin"
+  },
+  {
+    "id": 10,
+    "name": "iOS App Development with Swift",
+    "category": "Mobile Development",
+    "duration": 24,
+    "level": "Advanced",
+    "description": "Create stunning iOS apps using Swift, SwiftUI, networking, persistence and animations.",
+    "imageSeed": "ios_swift"
+  },
+  {
+    "id": 11,
+    "name": "Machine Learning A–Z",
+    "category": "AI & ML",
+    "duration": 40,
+    "level": "Intermediate",
+    "description": "Hands-on ML models, regression, classification, clustering, preprocessing, evaluation and deployment.",
+    "imageSeed": "ml_az"
+  },
+  {
+    "id": 12,
+    "name": "Deep Learning & Neural Networks",
+    "category": "AI & ML",
+    "duration": 45,
+    "level": "Advanced",
+    "description": "Master neural networks, CNNs, RNNs, optimization, PyTorch/TensorFlow, and real DL projects.",
+    "imageSeed": "deep_learning_pro"
+  },
+  {
+    "id": 13,
+    "name": "Cybersecurity Fundamentals",
+    "category": "Cyber Security",
+    "duration": 21,
+    "level": "Beginner",
+    "description": "Learn network security, ethical hacking basics, vulnerabilities, encryption and secure systems.",
+    "imageSeed": "cyber_security"
+  },
+  {
+    "id": 14,
+    "name": "Cloud Computing with AWS",
+    "category": "Cloud Computing",
+    "duration": 26,
+    "level": "Intermediate",
+    "description": "Master AWS EC2, Lambda, S3, IAM, VPC, billing and deploy scalable cloud applications.",
+    "imageSeed": "aws_cloud"
+  },
+  {
+    "id": 15,
+    "name": "Digital Marketing Mastery",
+    "category": "Marketing",
+    "duration": 15,
+    "level": "Beginner",
+    "description": "Learn SEO, SEM, social media ads, content strategy, analytics and brand promotions.",
+    "imageSeed": "digital_marketing"
+  },
+  {
+    "id": 16,
+    "name": "Content Writing & Strategy",
+    "category": "Marketing",
+    "duration": 12,
+    "level": "Beginner",
+    "description": "Master storytelling, long-form content creation, SEO writing and brand communication.",
+    "imageSeed": "content_writing"
+  },
+  {
+    "id": 17,
+    "name": "Full-Stack Developer Roadmap",
+    "category": "Web Development",
+    "duration": 50,
+    "level": "Advanced",
+    "description": "Become a full-stack engineer with React, Node.js, MongoDB, testing, architecture & deployment.",
+    "imageSeed": "fullstack"
+  },
+  {
+    "id": 18,
+    "name": "Database Design & SQL",
+    "category": "Database",
+    "duration": 19,
+    "level": "Intermediate",
+    "description": "Learn relational models, schemas, joins, indexing, transactions and real-world database design.",
+    "imageSeed": "database_sql"
+  },
+  {
+    "id": 19,
+    "name": "Project Management Professional",
+    "category": "Business",
+    "duration": 20,
+    "level": "Intermediate",
+    "description": "Understand project lifecycle, Agile, Scrum, planning, risk assessment and team management.",
+    "imageSeed": "project_management"
+  },
+  {
+    "id": 20,
+    "name": "Blockchain & Web3 Basics",
+    "category": "Blockchain",
+    "duration": 27,
+    "level": "Intermediate",
+    "description": "Learn blockchain fundamentals, smart contracts, cryptocurrency concepts and decentralized apps.",
+    "imageSeed": "web3_blockchain"
+  }
+]
